@@ -75,17 +75,17 @@ I’m Adithya SD — a passionate **Full Stack Developer**, **Video Editor**, an
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=adithyasd10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B5D8&icon_color=00B5D8&text_color=FFFFFF&border_radius=15" height="180" />
+        <img src="https://github-readme-stats.vercel.app/api?username=adithyasd10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B5D8&icon_color=00B5D8&text_color=FFFFFF&border_radius=15&v=1" height="180" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=adithyasd10&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=00B5D8&currStreakLabel=FFFFFF" height="180" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=adithyasd10&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=00B5D8&currStreakLabel=FFFFFF&v=1" height="180" />
       </td>
     </tr>
   </table>
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyasd10&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00B5D8&text_color=FFFFFF&hide_border=true&card_width=400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyasd10&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00B5D8&text_color=FFFFFF&hide_border=true&card_width=400&v=1" height="200" />
 
 </div>
 
@@ -93,7 +93,7 @@ I’m Adithya SD — a passionate **Full Stack Developer**, **Video Editor**, an
 
 <!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyasd10&bg_color=0D1117&color=00B5D8&line=00F0FF&point=FFFFFF&area=true&hide_border=true&radius=15" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyasd10&bg_color=0D1117&color=00B5D8&line=00F0FF&point=FFFFFF&area=true&hide_border=true&radius=15&v=1" width="100%"/>
 </div>
 
 <br><br>
