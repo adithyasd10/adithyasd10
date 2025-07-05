@@ -18,7 +18,7 @@
 
 <div align="left">
 
-<img align="right" alt="Coding + Editing" width="300" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" />
+<img align="right" alt="Coding + Editing" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxqc3pzeWtuOHc3dWd5a2lwNXZlM29nNGxtNm8xNXRsZDR2MHRhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif" />
 
 Hello! I'm **Adithya SD**, a passionate **Full Stack Developer**, **Video Editor**, and final-year **Computer Engineering Student** driven by the desire to build seamless digital experiences blending technology and creativity.
 
