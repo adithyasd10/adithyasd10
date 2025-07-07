@@ -9,7 +9,7 @@
 <div align="center">
 
   <!-- Typing Animation in soft red -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F08080&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Cross+Platform+App+Developer;Frontend+Designer+and+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F08080&center=true&vCenter=true&multiline=true&width=600&height=100&lines=➤+Cross+Platform+App+Developer;➤+Frontend+Designer+and+Developer" alt="Typing SVG" />
 
   <!-- Profile Views Badge in red accent -->
   <img src="https://komarev.com/ghpvc/?username=adithyasd10&color=E53935&style=for-the-badge&label=Profile+Views" alt="Profile views" />
