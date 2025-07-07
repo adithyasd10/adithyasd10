@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://github.com/adithyasd10/adithyasd10/blob/main/assets/spoidey.png?raw=true" alt="Banner" style="width:100%;" />
+</p>
+
+<p align="center">
   <img src="https://i.imgur.com/A6bWGFl.gif"/>
 </p>
 
