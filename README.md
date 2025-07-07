@@ -18,7 +18,7 @@
 
 <br>
 
-## 👋 Adithya S D (He/Him)
+## About Me 
 
 <div align="left">
 
